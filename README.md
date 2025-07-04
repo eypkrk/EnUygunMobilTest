@@ -1,2 +1,2 @@
 # EnUygunMobilTest
- En Uygun Mobil Test
+ En Uygun Mobil Uygulama Testi
